@@ -7,8 +7,3 @@ def complex_delete(my_dict, value):
     for key in keys_to_del:
         del my_dict[key]
     return my_dict
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-
